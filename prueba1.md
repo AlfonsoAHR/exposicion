@@ -1,4 +1,4 @@
-# 1. Proyecto alimentador para gatos
+# 1. Proyecto alimentador para gatos mediante un bot de Telegram
 
 ## 1.1. Esquema
 
