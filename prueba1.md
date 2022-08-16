@@ -13,6 +13,7 @@
 * 1 x Esp32
 * 1 x Micro Servomotor Sg90
 * Multiples cajas de carton
+* Una botella de 600 ml.
 
 ## 1.3. Codigo
 ``` C++
