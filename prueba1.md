@@ -96,7 +96,7 @@ void loop() {
 }
 ```
 
-##1.4 Bots de Telegram utilizados
+## 1.4 Bots de Telegram utilizados
 
 <img src="diagrama2.PNG"
      alt="Esquema"
