@@ -1,4 +1,4 @@
-# 1. Practica Active Buzzer
+# 1. Proyecto alimentador para gatos
 
 ## 1.1. Esquema
 
@@ -96,9 +96,20 @@ void loop() {
 }
 ```
 
-## 1.4 Bots de Telegram utilizados
+## 1.4 Materiales usados
 
-<img src="diagrama2.PNG"
+<img src="esp32.jpeg"
      alt="Esquema"
      style="float: left; margin-right: 10px;" />
 <br>
+
+##
+
+<img src="carcaza.jpeg"
+     alt="Esquema"
+     style="float: left; margin-right: 10px;" />
+<br>
+
+## 1.5 Muestra
+
+![Alt Text](prueba.gif)
