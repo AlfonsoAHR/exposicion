@@ -2,7 +2,7 @@
 
 ## 1.1. Esquema
 
-<img src="diagrama2.PNG"
+<img src="img/diagrama2.PNG"
      alt="Esquema"
      style="float: left; margin-right: 10px;" />
 <br>
@@ -100,14 +100,14 @@ void loop() {
 
 ## 1.4 Materiales usados
 
-<img src="esp32.jpeg"
+<img src="img/esp32.jpeg"
      alt="Esquema"
      style="float: left; margin-right: 10px;" />
 <br>
 
 ##
 
-<img src="carcaza.jpeg"
+<img src="img/carcaza.jpeg"
      alt="Esquema"
      style="float: left; margin-right: 10px;" />
 <br>
