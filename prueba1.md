@@ -12,6 +12,7 @@
 * 3 x Cables macho-hembra
 * 1 x Esp32
 * 1 x Micro Servomotor Sg90
+* Multiples cajas de carton
 
 ## 1.3. Codigo
 ``` C++
@@ -112,4 +113,4 @@ void loop() {
 
 ## 1.5 Muestra
 
-![Alt Text](prueba.gif)
+![Alt Text](https://github.com/AlfonsoAHR/exposicion/blob/main/prueba.gif)
