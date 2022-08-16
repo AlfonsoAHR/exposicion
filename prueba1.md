@@ -2,7 +2,7 @@
 
 ## 1.1. Esquema
 
-<img src="active_buzzer.jpg"
+<img src="diagrama2.PNG"
      alt="Esquema"
      style="float: left; margin-right: 10px;" />
 <br>
@@ -95,3 +95,10 @@ void loop() {
   }
 }
 ```
+
+##1.4 Bots de Telegram utilizados
+
+<img src="diagrama2.PNG"
+     alt="Esquema"
+     style="float: left; margin-right: 10px;" />
+<br>
